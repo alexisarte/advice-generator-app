@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Kumbh Sans', ...defaultTheme.fontFamily.sans],
+        kumbhSans: ['Kumbh+Sans'],
       },
       colors: {
         'light-cyan': 'hsl(193, 38%, 86%)',
