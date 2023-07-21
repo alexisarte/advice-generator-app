@@ -52,4 +52,3 @@ Users should be able to:
 - Website - [Alexis Rodriguez](https://alexis-rodriguez.tech/)
 - Frontend Mentor - [@alexisarte](https://www.frontendmentor.io/profile/alexisarte)
 - Twitter - [@AlexisR95815658](https://twitter.com/AlexisR95815658)
-
