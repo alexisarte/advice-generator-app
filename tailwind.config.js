@@ -6,8 +6,8 @@ module.exports = {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {
-      fontFamily: {
-        kumbhSans: ['Kumbh+Sans'],
+      boxShadow: {
+        lg: '0px 0px 40px 0px hsl(150, 100%, 66%)',
       },
       colors: {
         'light-cyan': 'hsl(193, 38%, 86%)',
