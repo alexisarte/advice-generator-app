@@ -50,5 +50,5 @@ Users should be able to:
 ## Author
 
 - Website - [Alexis Rodriguez](https://alexis-rodriguez.tech/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/alexisarte)
+- Frontend Mentor - [@alexisarte](https://www.frontendmentor.io/profile/alexisarte)
 - Twitter - [@AlexisR95815658](https://twitter.com/AlexisR95815658)
